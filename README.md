@@ -1,4 +1,4 @@
-### 🧪 En este proyecto realicé un proceso completo de aseguramiento de calidad sobre una aplicación móvil de gestión de tareas, como parte de mi formación práctica en TripleTen.
+### 🧪 En este proyecto realicé un proceso completo de aseguramiento de calidad sobre una aplicación móvil de GPS, validando a detalle su funcionalidad y diseño como parte de mi formación práctica en TripleTen.
 
 🔍 **Alcance del proyecto**:
 - Diseño y ejecución de casos de prueba funcionales y de regresión.
@@ -19,8 +19,16 @@ Los casos de prueba fueron elaborados cuidadosamente utilizando los siguientes c
 
 Estos casos permitieron validar flujos como el registro, login, creación y eliminación de tareas, incluyendo escenarios positivos, negativos y de validación.
 
-🐞 **Gestión de errores**:
-Los errores identificados fueron documentados en JIRA con su respectivo ID, severidad, descripción, pasos para reproducir y evidencia visual. Esta práctica fortaleció mis habilidades de documentación y análisis de calidad.
+🐛 **Reportes de Errores**:
+
+Los errores detectados durante la ejecución fueron registrados en **JIRA**, incluyendo:
+
+- Severidad (Alta, Media, Baja)
+- Descripción detallada del error
+- Pasos para reproducir
+- Evidencia visual (capturas de pantalla)
+
+Este enfoque ayudó a mejorar la comunicación con desarrolladores y optimizar los tiempos de resolución.
 
 🎯 **Resultado**:
 - Más de 20 casos de prueba ejecutados
